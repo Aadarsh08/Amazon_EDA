@@ -84,29 +84,6 @@ Copy code
 jupyter notebook Zomato_EDA_Project.ipynb
 ```<br/>
 Run the cells in the notebook to execute the EDA and visualize the results.<br/>
-Contributing
-We welcome contributions to enhance the analysis and insights provided by this project. To contribute:<br/>
 
-Fork the repository.<br/>
-Create a new branch:<br/>
-sh
-Copy code
-git checkout -b feature/YourFeature
-```<br/>
-Commit your changes:<br/>
-sh
-Copy code
-git commit -m 'Add some feature'
-```<br/>
-Push to the branch:<br/>
-sh
-Copy code
-git push origin feature/YourFeature
-```<br/>
-Open a pull request.<br/>
-License
-This project is licensed under the MIT License. See the LICENSE file for details.<br/>
-
-For any queries or feedback, please open an issue on the GitHub repository.<br/>
 
 Thank you for using the Zomato EDA Project!<br/>

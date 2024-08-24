@@ -39,48 +39,41 @@ order_mode: Mode of the order (online or offline)<br/>
 order_amount: Amount spent on the order<br/>
 is_couple: Indicator if the order was placed by a couple<br/>
 ### Analysis and Results
-Restaurant Types
+Restaurant Types<br/>
 The analysis reveals the types of restaurants that the majority of customers prefer to order from.<br/>
 
-Votes by Restaurant Type
+Votes by Restaurant Type<br/>
 We analyze the number of votes received by each type of restaurant to understand customer preferences and engagement.<br/>
 
-Restaurant Ratings
+Restaurant Ratings<br/>
 This section examines the ratings that the majority of restaurants have received, providing insights into overall customer satisfaction.<br/>
 
-Couples' Average Spending
+Couples' Average Spending<br/>
 Zomato has observed that most couples order most of their food online. We calculate the average spending on each order by couples.<br/>
 
-Mode of Orders
+Mode of Orders<br/>
 We determine which mode (online or offline) has received the maximum rating to help Zomato understand customer preferences.<br/>
 
-Offline Orders by Restaurant Type
+Offline Orders by Restaurant Type<br/>
 We identify the types of restaurants that received more offline orders so that Zomato can target these customers with special offers.<br/>
 
 ### Installation
 To run this project, you need to have Python and Jupyter Notebook installed on your system. You can set up the environment by following these steps:<br/>
 
 Clone the repository:<br/>
-sh
 Copy code
-git clone https://github.com/yourusername/zomato-eda-project.git
+git clone https://github.com/Aadarsh08/Amazon_EDA.git
 ```<br/>
 Navigate to the project directory:
-sh
 Copy code
 cd zomato-eda-project
 ```
-Install the required dependencies:
-sh
-Copy code
-pip install -r requirements.txt
-```
+
 Usage
 To perform the analysis and visualize the data:
 
-Open the Jupyter Notebook:
-sh
-Copy code
+Open the Jupyter Notebook:<br/>
+Copy code<br/>
 jupyter notebook Zomato_EDA_Project.ipynb
 ```
 Run the cells in the notebook to execute the EDA and visualize the results.
